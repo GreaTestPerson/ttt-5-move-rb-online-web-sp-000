@@ -8,4 +8,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 input = gets.strip0
-input = input_to_index(input
+input = input_to_index(input)
